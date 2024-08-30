@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Asik Billah</h1>
-<h3 align="center">A passionate SQA Engineer and Tester from Bangladesh</h3>
+<h3 align="center">A passionate Frontend developer and Tester from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asikbillah&label=Profile%20views&color=0e75b6&style=flat" alt="asikbillah" /> </p>
 
-- 🔭 I’m currently working on **Web Automation**
+- 🔭 I’m currently working on **Frontend and Wordpress Development **
 
-- 🌱 I’m currently learning **SQA Engineering and Testing**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **asikbd99@gmail.com**
 
